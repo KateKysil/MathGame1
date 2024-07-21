@@ -1,0 +1,15 @@
+C:\Users\Kate\source\repos\GameIStole\GameIStole\bin\Debug\GameIStole.exe.config
+C:\Users\Kate\source\repos\GameIStole\GameIStole\bin\Debug\GameIStole.exe
+C:\Users\Kate\source\repos\GameIStole\GameIStole\bin\Debug\GameIStole.pdb
+C:\Users\Kate\source\repos\GameIStole\GameIStole\obj\Debug\GameIStole.csproj.AssemblyReference.cache
+C:\Users\Kate\source\repos\GameIStole\GameIStole\obj\Debug\MainWindow.g.cs
+C:\Users\Kate\source\repos\GameIStole\GameIStole\obj\Debug\App.g.cs
+C:\Users\Kate\source\repos\GameIStole\GameIStole\obj\Debug\GameIStole_MarkupCompile.cache
+C:\Users\Kate\source\repos\GameIStole\GameIStole\obj\Debug\GameIStole_MarkupCompile.lref
+C:\Users\Kate\source\repos\GameIStole\GameIStole\obj\Debug\MainWindow.baml
+C:\Users\Kate\source\repos\GameIStole\GameIStole\obj\Debug\GameIStole.g.resources
+C:\Users\Kate\source\repos\GameIStole\GameIStole\obj\Debug\GameIStole.Properties.Resources.resources
+C:\Users\Kate\source\repos\GameIStole\GameIStole\obj\Debug\GameIStole.csproj.GenerateResource.cache
+C:\Users\Kate\source\repos\GameIStole\GameIStole\obj\Debug\GameIStole.csproj.CoreCompileInputs.cache
+C:\Users\Kate\source\repos\GameIStole\GameIStole\obj\Debug\GameIStole.exe
+C:\Users\Kate\source\repos\GameIStole\GameIStole\obj\Debug\GameIStole.pdb
